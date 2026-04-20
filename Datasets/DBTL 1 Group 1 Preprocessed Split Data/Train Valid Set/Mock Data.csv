@@ -1,0 +1,14 @@
+text,label_specific,label_generic
+"Hi
+
+                I am running the IR test program from John Jones. To do this I need to start
+IC with thw wizard option. As I have a macintosh, there is a wizard option for
+the mac version of IC?
+
+Jesus
+
+",human_legit,legit
+"Verify your MetaMagic Wallet Our system has shown that  your MetaMask wallet has not yet been verified, this verification can be done  easily via the button below. Unverified accounts will be suspended on: Friday, 13 January, 2023. We are sorry for any inconvenience caused by this, but please note that our intention is to keep our customers safe and happy. Safety is and  will remain our highest priority. Verify My MetaMask   This email is  sent to: jack@monkey.org",human_phishing,phishing
+"Dear Michael, I hope this message finds you well. We are reaching out to you with an urgent request regarding your account verification. As part of our commitment to ensuring the security of our users, we kindly ask you to verify your account at your earliest convenience. By completing this simple verification process, you not only enhance the security of your account but also contribute to making our community safer for everyone. Your cooperation in this matter is greatly appreciated. Please click [here](https://account-verification-link1.com) to proceed with the verification process. Thank you for your prompt attention to this matter. Best regards, John Johnson Customer Support Team",llm_legit,legit
+"Dear User, We have received reports indicating that your account has been flagged for suspicious activities. To ensure the safety of your account and prevent any unauthorized accesswe require you to confirm your account details immediately. By clicking on the link belowyou will be directed to a secure page where you can update your account information. Failure to comply within the specified timeframe may result in a temporary suspension of your account. chaseonline-login.com Thank you for your cooperation in this matter. Should you have any concerns or questionsplease contact our support team urgently. Sincerely,
+The Account Security Team",llm_phishing,phishing
